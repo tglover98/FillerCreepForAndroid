@@ -1,0 +1,4 @@
+#Sat Sep 15 18:22:33 MDT 2018
+base.0=C\:\\Users\\tmg09\\OneDrive\\Documents\\GitHub\\FillerCreepForAndroid\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
